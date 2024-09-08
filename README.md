@@ -1,1 +1,11 @@
 # Passo-a-passo-Microsoft-Azure
+![Criar um recurso](https://github.com/user-attachments/assets/67166c1f-a2dd-4bc9-85d1-26154d740afa)
+![Configuracoes do portal idioma e Regiao](https://github.com/user-attachments/assets/5b86a844-d589-47e5-958c-e1357e8eaf65)
+![Configurações do portal Aparência + exibições de iniciallização](https://github.com/user-attachments/assets/756dc216-3137-49ac-8bda-7c00b89024df)
+![Todos os serviços](https://github.com/user-attachments/assets/360a675e-d819-4070-9312-6720798f00c5)
+![Todos os serviços computação](https://github.com/user-attachments/assets/27035b29-3e34-4e12-912e-5cf8d8254009)
+![Todos os serviços rede](https://github.com/user-attachments/assets/bec8cd30-3fb3-4f84-8fdd-51950590aa66)
+![Todos os serviços realidade misturada](https://github.com/user-attachments/assets/cd186fbd-5f08-436d-95b1-434a9f2bab6f)
+![Todos os serviços armazenamento](https://github.com/user-attachments/assets/1b73ccf3-040b-4304-8c1d-519c31a1f2d5)
+![Todos os serviços AI + machine Learning](https://github.com/user-attachments/assets/a59e88e9-44de-4905-b892-a88a77c00ebc)
+![Todos os serviços Analytics](https://github.com/user-attachments/assets/fc1cec5f-ceec-4983-ae8b-308e630bb765)
